@@ -1,5 +1,8 @@
 Test Git
+<<<<<<< HEAD
 This is second line.
 This is third line.
 This is fourth line.(added using newbranch)
 Added in main branch
+=======
+>>>>>>> newbranch
